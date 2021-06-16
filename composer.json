@@ -1,4 +1,6 @@
 {
+    "name": "luansp12/trello8",
+    "description": "A simple API Rest to consume Trello API made in PHP 8.",
     "require": {
         "guzzlehttp/guzzle": "^7.0",
         "vlucas/phpdotenv": "^5.3"
